@@ -29,3 +29,5 @@ Preprocessing: LabelEncoder, StandardScaler
 Models: Random Forest, Gradient Boosting, KNN, Logistic Regression, SVC
 
 Evaluation: Confusion Matrix
+
+Dataset Link:- https://www.kaggle.com/datasets/kartik2112/fraud-detection
